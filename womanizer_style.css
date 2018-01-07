@@ -1,0 +1,33 @@
+body{
+	background: linear-gradient(to right, #008B8B, #00FFFF);
+	width: 100%;
+}
+
+
+.container{
+	width: 35%;
+	height: 150px;
+	margin: 0 auto;
+	background: white;
+	margin-top: 10px;
+	border: 1px solid black;
+}
+
+.btn-info{
+	position: relative;
+	left: 55%;
+	background: #191919;
+	margin-top: 10px;
+}
+
+
+.col-lg-8{
+	width: 35%;
+	height: 150px;
+	margin: 0 auto;
+	background: white;
+	position: relative;
+	left: 100px;
+	margin-top: 10px;
+	border: 1px solid black;
+}
